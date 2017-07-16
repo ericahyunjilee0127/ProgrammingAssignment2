@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Below two functions create a special "matrix" and returns an inverse of the generated "matrix"
 
 ## Creates a special "Matrix"
 
